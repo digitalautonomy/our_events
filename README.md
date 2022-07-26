@@ -14,8 +14,7 @@ Todos los materiales que aquí encuentra -a menos que se indique
 específicamente otra- están disponibles bajo los términos la
 licencia Creative Commons Atribución 4.0 Internacional (CC BY
 4.0). Usted es libre para **compartir** - copiar y redistribuir el
-material en cualquier medio y formato - así como para **adaptar**
-- remezclar, transformar y construir a partir del material - para
+material en cualquier medio y formato - así como para **adaptar** - remezclar, transformar y construir a partir del material - para
   cualquier propósito, incluso comercialmente.
 
 [0]: https://github.com/digitalautonomy/our_events/tree/main/Pet_Nights/Higiene_Digital_Passwords
