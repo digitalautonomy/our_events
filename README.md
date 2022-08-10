@@ -9,6 +9,12 @@ está enfocada en el aprendizaje de prácticas que ayudan a mejorar
 nuestra seguridad. En esta primera entrega hablamos acerca del uso de
 contraseñas de manera segura.
 
+- ## [Petnight: Lanzamiento de CoyIM 0.4][1]
+¡Nuestra primera Pet Night del año! dedicada a la versión 0.4 de
+nuestro proyecto CoyIM, una aplicación de chat segura, privada y
+anónima. Conoce más acerca de sus funcionalidades, características de
+seguridad e instrucciónes de instalación y uso ¡aquí!.
+
 ---
 Todos los materiales que aquí encuentra -a menos que se indique
 específicamente otra- están disponibles bajo los términos la
@@ -18,3 +24,4 @@ material en cualquier medio y formato - así como para **adaptar** - remezclar, 
   cualquier propósito, incluso comercialmente.
 
 [0]: https://github.com/digitalautonomy/our_events/tree/main/Pet_Nights/Higiene_Digital_Passwords
+[1]: https://github.com/digitalautonomy/our_events/tree/main/Pet_Nights/CoyIM
