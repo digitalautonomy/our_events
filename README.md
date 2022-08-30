@@ -3,13 +3,13 @@
 Aquí encuentras todos los materiales de formación y divulgación
 desarrollados para nuestros eventos.
 
-- ## [Petnight: Higiene Digital - Contraseñas:][0]
+- ## [PET Night: Higiene Digital - Contraseñas:][0]
 Primera entrega de la serie que denominamos "Higiene Digital" y que
 está enfocada en el aprendizaje de prácticas que ayudan a mejorar
 nuestra seguridad. En esta primera entrega hablamos acerca del uso de
 contraseñas de manera segura.
 
-- ## [Petnight: Lanzamiento de CoyIM 0.4][1]
+- ## [PET Night: Lanzamiento de CoyIM 0.4][1]
 ¡Nuestra primera Pet Night del año! dedicada a la versión 0.4 de
 nuestro proyecto CoyIM, una aplicación de chat segura, privada y
 anónima. Conoce más acerca de sus funcionalidades, características de
